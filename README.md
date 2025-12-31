@@ -14,19 +14,20 @@ ATM/
 |__ atmimplements.java
 |__ userinterface.java
 ## Functionalities
-   User authentication using card number and PIN
-   Cash withdrawal
-   Cash deposit
-   Balance enquiry
-   Mini statement display
-   Menu-driven user interaction
+   User authentication using card number and PIN,
+   Cash withdrawal,
+   Cash deposit,
+   Balance enquiry,
+   Mini statement display,
+   Menu-driven user interaction.
 ## Concepts Implemented
-  Object-Oriented Programming (OOP)
-  Interfaces and method implementation
-  Encapsulation
-  Conditional statements and loops
-  Java Collections
+  Object-Oriented Programming (OOP),
+  Interfaces and method implementation,
+  Encapsulation,
+  Conditional statements and loops,
+  Java Collections.
 ## Learning Outcome
    This project helped in understanding Java OOP concepts and building a structured, multi-class Java application.
 ## Author
-  Sathish Chekuri
+  Sathish Chekuri.
+
