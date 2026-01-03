@@ -9,9 +9,12 @@
   Java Collections Framework
 ## Project Structure
 ATM/
-├__ atm.java
+|__ atm.java
+
 |__ atminterface.java
+
 |__ atmimplements.java
+
 |__ userinterface.java
 ## Functionalities
    User authentication using card number and PIN,
